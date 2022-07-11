@@ -1,0 +1,15 @@
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\CSharpAutoGlass\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\CSharpAutoGlass\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

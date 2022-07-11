@@ -1,0 +1,16 @@
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+C:\CSharpAutoGlass\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+C:\CSharpAutoGlass\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
